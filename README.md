@@ -1,2 +1,2 @@
 # abs
-Arch build system
+Arch Linux PKGBUILDs that I maintain
